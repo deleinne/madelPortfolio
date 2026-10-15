@@ -1,0 +1,7 @@
+node_modules/
+.local-preview/
+*.log
+# Source CV remains local and is not a website asset.
+*.pdf
+# Original image stays local; the website copy is tracked in dist/assets.
+/img_mad.jpeg
