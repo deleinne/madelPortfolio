@@ -20,7 +20,7 @@ The original CV stays outside the served folder and is ignored by Git. The websi
 
 ## Deployment
 
-The intended GitHub owner is `jczx`. The workflow in `.github/workflows/deploy.yml` publishes only `dist/` to GitHub Pages on pushes to `main`, or when run manually.
+The repository is `deleinne/madelPortfolio`; `jczx` contributes as a collaborator. The workflow in `.github/workflows/deploy.yml` publishes only `dist/` to GitHub Pages on pushes to `main`, or when run manually.
 
 Before the first deployment, create the repository and select **Settings → Pages → Build and deployment → Source → GitHub Actions**. The repository requires access from the connected GitHub account before the initial push. A successful deployment run reports the live URL.
 
